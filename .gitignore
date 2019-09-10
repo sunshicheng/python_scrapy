@@ -1,0 +1,9 @@
+#.gitignore
+.DS_Store
+workspace.xml
+encodings.xml
+misc.xml
+modules.xml
+vcs.xml
+*.log
+*.iml
